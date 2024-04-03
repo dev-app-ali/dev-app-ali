@@ -1,5 +1,4 @@
 
-
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8sLza88Bsdfy8wF41cQYx0zj2UvIWnjzkF6d2t4Xk3AWVXC1ldE8SpzKLOMYWuUDFF2aegzcQDlVF6lAYn0Ni4OY6GSOu-vTMpkhWEw471LekgK_l_Yvi2RG4ZBhI_tebubSaH1zCFE/s0/0_0ur42X5UCno7L6M1.jpg" alt="Banner" width="100%"> 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">A passionate Android developer</h3>
@@ -8,13 +7,17 @@
 
 <br>
 <div style="background-color: white; align-items: flex-start;">
-    <div><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+    <div>
+       <img src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/e5a9f314-a6a8-45db-b056-bbea84c5ef89" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/15325054-97e5-4c39-8f18-3860c85e8511" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
   <img  src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 </div>
+
 <br>
 
 
@@ -25,6 +28,7 @@
 - 📫 How to reach me **code.app.ali@gmail.com**
 
 - ⚡ Fun fact **I think I can Program**
+  <img align ="right" alt="Coding" width="400" src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/e4fecb39-58c9-474f-a4b2-9f9b754aad28">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
