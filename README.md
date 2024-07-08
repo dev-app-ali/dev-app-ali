@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **code.app.ali@gmail.com**
 
-- ⚡ Fun fact **I think I can Program**
+- ⚡ Fun fact: **I think I can Program**
   <img align ="right" alt="Coding" width="400" src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/e4fecb39-58c9-474f-a4b2-9f9b754aad28">
 
 <h3 align="left">Connect with me:</h3>
