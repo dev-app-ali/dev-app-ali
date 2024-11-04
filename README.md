@@ -1,7 +1,7 @@
 
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8sLza88Bsdfy8wF41cQYx0zj2UvIWnjzkF6d2t4Xk3AWVXC1ldE8SpzKLOMYWuUDFF2aegzcQDlVF6lAYn0Ni4OY6GSOu-vTMpkhWEw471LekgK_l_Yvi2RG4ZBhI_tebubSaH1zCFE/s0/0_0ur42X5UCno7L6M1.jpg" alt="Banner" width="100%"> 
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate App developer <sup> Software Engineer </sup></sup></h3>
+<h3 align="center">A passionate Software Engineer </h3>
 <img align ="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.584687411.1709717285&semt=ais">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-app-ali&label=Profile%20views&color=0e75b6&style=flat" alt="dev-app-ali" /> </p>
 
