@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Koltin Multiplatform Mobile**
 
-- 💬 Ask me about **Android, Java , Kotlin**
+- 💬 Ask me about **Python, Java, Kotlin**
 
 - 📫 How to reach me **code.app.ali@gmail.com**
 
