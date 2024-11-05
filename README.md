@@ -7,11 +7,16 @@
 
 <br>
 <div style="background-color: white; align-items: flex-start;">
-    <div>
+    <div>      
+       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+              <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
        <img src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/e5a9f314-a6a8-45db-b056-bbea84c5ef89" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
        <img src="https://github.com/dev-app-ali/dev-app-ali/assets/121374194/15325054-97e5-4c39-8f18-3860c85e8511" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
-       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 50px;" />
   <img  src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="74" style="width: 74px; height: 74px; margin-right: 0px; margin-bottom: 0px;" /></div>
